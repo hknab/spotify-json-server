@@ -1,0 +1,1530 @@
+{
+  "user": {
+    "name": "KAHOO",
+    "email": "test@gmail.com",
+    "avatar": "/images/user-avatar.jpg",
+    "id": 1,
+    "playlists": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "madeForUser": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "playlistsFollow": [
+      6,
+      5,
+      7,
+      8
+    ]
+  },
+  "playlists": [
+    {
+      "id": 1,
+      "title": "Brit Rock",
+      "musics": [
+        {
+          "id": 19,
+          "title": "Roads",
+          "length": "5:02",
+          "src": "/music/19.mp3",
+          "cover": "/cover/19.jpg",
+          "artist": "test",
+          "album": "test",
+          "date": "2 days ago"
+        },
+        {
+          "id": 20,
+          "title": "Pedestal",
+          "length": "3:39",
+          "src": "/music/20.mp3",
+          "cover": "/cover/20.jpg",
+          "artist": "test",
+          "album": "test",
+          "date": "2 days ago"
+        },
+        {
+          "id": 23,
+          "title": "Airbag",
+          "length": "4:44",
+          "src": "/music/23.mp3",
+          "cover": "/cover/23.jpg",
+          "artist": "test",
+          "album": "test",
+          "date": "2 days ago"
+        },
+        {
+          "id": 24,
+          "title": "Paranoid Android",
+          "length": "6:23",
+          "src": "/music/24.mp3",
+          "cover": "/cover/24.jpg",
+          "artist": "test",
+          "album": "test",
+          "date": "2 days ago"
+        },
+        {
+          "id": 25,
+          "title": "Subterranean Homesick Alien",
+          "length": "4:27",
+          "src": "/music/25.mp3",
+          "cover": "/cover/25.jpg",
+          "artist": "test",
+          "album": "test",
+          "date": "2 days ago"
+        }
+      ],
+      "cover": "/cover/playlist1.jpg",
+      "artist": "test",
+      "album": "test",
+      "date": "2 days ago"
+    },
+    {
+      "title": "90's Rock",
+      "musics": [
+        {
+          "id": 16,
+          "title": "Wandering Star",
+          "length": "4:51",
+          "src": "/music/16.mp3",
+          "cover": "/cover/16.jpg",
+          "artist": "test",
+          "album": "test",
+          "date": "2 days ago"
+        },
+        {
+          "id": 17,
+          "title": "It's a Fire",
+          "length": "3:49",
+          "src": "/music/17.mp3",
+          "cover": "/cover/17.jpg",
+          "artist": "test",
+          "album": "test",
+          "date": "2 days ago"
+        },
+        {
+          "id": 18,
+          "title": "Numb",
+          "length": "3:54",
+          "src": "/music/18.mp3",
+          "cover": "/cover/18.jpg",
+          "artist": "test",
+          "album": "test",
+          "date": "2 days ago"
+        },
+        {
+          "id": 19,
+          "title": "Roads",
+          "length": "5:02",
+          "src": "/music/19.mp3",
+          "cover": "/cover/19.jpg",
+          "artist": "test",
+          "album": "test",
+          "date": "2 days ago"
+        },
+        {
+          "id": 20,
+          "title": "Pedestal",
+          "length": "3:39",
+          "src": "/music/20.mp3",
+          "cover": "/cover/20.jpg",
+          "artist": "test",
+          "album": "test",
+          "date": "2 days ago"
+        },
+        {
+          "id": 21,
+          "title": "Biscuit",
+          "length": "5:01",
+          "src": "/music/21.mp3",
+          "cover": "/cover/21.jpg",
+          "artist": "test",
+          "album": "test",
+          "date": "2 days ago"
+        },
+        {
+          "id": 22,
+          "title": "Glory Box",
+          "length": "5:06",
+          "src": "/music/22.mp3",
+          "cover": "/cover/22.jpg",
+          "artist": "test",
+          "album": "test",
+          "date": "2 days ago"
+        },
+        {
+          "id": 23,
+          "title": "Airbag",
+          "length": "4:44",
+          "src": "/music/23.mp3",
+          "cover": "/cover/23.jpg",
+          "artist": "test",
+          "album": "test",
+          "date": "2 days ago"
+        },
+        {
+          "id": 24,
+          "title": "Paranoid Android",
+          "length": "6:23",
+          "src": "/music/24.mp3",
+          "cover": "/cover/24.jpg",
+          "artist": "test",
+          "album": "test",
+          "date": "2 days ago"
+        },
+        {
+          "id": 25,
+          "title": "Subterranean Homesick Alien",
+          "length": "4:27",
+          "src": "/music/25.mp3",
+          "cover": "/cover/25.jpg",
+          "artist": "test",
+          "album": "test",
+          "date": "2 days ago"
+        }
+      ],
+      "id": 2,
+      "cover": "/cover/playlist2.jpg",
+      "artist": "test",
+      "album": "test",
+      "date": "2 days ago"
+    },
+    {
+      "title": "Best 2000's",
+      "musics": [
+        {
+          "id": 4,
+          "title": "The Rip",
+          "length": "4:29",
+          "src": "/music/4.mp3",
+          "cover": "/cover/4.jpg",
+          "artist": "test",
+          "album": "test",
+          "date": "2 days ago"
+        },
+        {
+          "id": 5,
+          "title": "Plastic",
+          "length": "3:27",
+          "src": "/music/5.mp3",
+          "cover": "/cover/5.jpg",
+          "artist": "test",
+          "album": "test",
+          "date": "2 days ago"
+        },
+        {
+          "id": 6,
+          "title": "We Carry On",
+          "length": "6:27",
+          "src": "/music/6.mp3",
+          "cover": "/cover/6.jpg",
+          "artist": "test",
+          "album": "test",
+          "date": "2 days ago"
+        },
+        {
+          "id": 7,
+          "title": "Deep Water",
+          "length": "1:31",
+          "src": "/music/7.mp3",
+          "cover": "/cover/7.jpg",
+          "artist": "test",
+          "album": "test",
+          "date": "2 days ago"
+        },
+        {
+          "id": 8,
+          "title": "Machine Gun",
+          "length": "4:43",
+          "src": "/music/8.mp3",
+          "cover": "/cover/8.jpg",
+          "artist": "test",
+          "album": "test",
+          "date": "2 days ago"
+        },
+        {
+          "id": 9,
+          "title": "Small",
+          "length": "6:45",
+          "src": "/music/9.mp3",
+          "cover": "/cover/9.jpg",
+          "artist": "test",
+          "album": "test",
+          "date": "2 days ago"
+        },
+        {
+          "id": 10,
+          "title": "Magic Doors",
+          "length": "3:32",
+          "src": "/music/10.mp3",
+          "cover": "/cover/10.jpg",
+          "artist": "test",
+          "album": "test",
+          "date": "2 days ago"
+        }
+      ],
+      "id": 3,
+      "cover": "/cover/playlist3.jpg"
+    },
+    {
+      "title": "Nostalgia playlist",
+      "musics": [
+        {
+          "id": 12,
+          "title": "Mysterons",
+          "length": "5:02",
+          "src": "/music/12.mp3",
+          "cover": "/cover/12.jpg",
+          "artist": "test",
+          "album": "test",
+          "date": "2 days ago"
+        },
+        {
+          "id": 13,
+          "title": "Sour Times",
+          "length": "4:11",
+          "src": "/music/13.mp3",
+          "cover": "/cover/13.jpg",
+          "artist": "test",
+          "album": "test",
+          "date": "2 days ago"
+        },
+        {
+          "id": 14,
+          "title": "Strangers",
+          "length": "3:55",
+          "src": "/music/14.mp3",
+          "cover": "/cover/14.jpg",
+          "artist": "test",
+          "album": "test",
+          "date": "2 days ago"
+        },
+        {
+          "id": 15,
+          "title": "It Could Be Sweet",
+          "length": "4:16",
+          "src": "/music/15.mp3",
+          "cover": "/cover/15.jpg",
+          "artist": "test",
+          "album": "test",
+          "date": "2 days ago"
+        }
+      ],
+      "id": 4,
+      "cover": "/cover/playlist4.jpg"
+    },
+    {
+      "title": "New year",
+      "musics": [
+        {
+          "id": 22,
+          "title": "Glory Box",
+          "length": "5:06",
+          "src": "/music/22.mp3",
+          "cover": "/cover/22.jpg",
+          "artist": "test",
+          "album": "test",
+          "date": "2 days ago"
+        },
+        {
+          "id": 23,
+          "title": "Airbag",
+          "length": "4:44",
+          "src": "/music/23.mp3",
+          "cover": "/cover/23.jpg",
+          "artist": "test",
+          "album": "test",
+          "date": "2 days ago"
+        },
+        {
+          "id": 24,
+          "title": "Paranoid Android",
+          "length": "6:23",
+          "src": "/music/24.mp3",
+          "cover": "/cover/24.jpg",
+          "artist": "test",
+          "album": "test",
+          "date": "2 days ago"
+        },
+        {
+          "id": 25,
+          "title": "Subterranean Homesick Alien",
+          "length": "4:27",
+          "src": "/music/25.mp3",
+          "cover": "/cover/25.jpg",
+          "artist": "test",
+          "album": "test",
+          "date": "2 days ago"
+        },
+        {
+          "id": 17,
+          "title": "It's a Fire",
+          "length": "3:49",
+          "src": "/music/17.mp3",
+          "cover": "/cover/17.jpg",
+          "artist": "test",
+          "album": "test",
+          "date": "2 days ago"
+        },
+        {
+          "id": 18,
+          "title": "Numb",
+          "length": "3:54",
+          "src": "/music/18.mp3",
+          "cover": "/cover/18.jpg",
+          "artist": "test",
+          "album": "test",
+          "date": "2 days ago"
+        },
+        {
+          "id": 19,
+          "title": "Roads",
+          "length": "5:02",
+          "src": "/music/19.mp3",
+          "cover": "/cover/19.jpg",
+          "artist": "test",
+          "album": "test",
+          "date": "2 days ago"
+        }
+      ],
+      "id": 5,
+      "cover": "/cover/playlist5.jpg"
+    },
+    {
+      "title": "Indie Covers",
+      "musics": [
+        {
+          "id": 16,
+          "title": "Wandering Star",
+          "length": "4:51",
+          "src": "/music/16.mp3",
+          "cover": "/cover/16.jpg",
+          "artist": "test",
+          "album": "test",
+          "date": "2 days ago"
+        },
+        {
+          "id": 17,
+          "title": "It's a Fire",
+          "length": "3:49",
+          "src": "/music/17.mp3",
+          "cover": "/cover/17.jpg",
+          "artist": "test",
+          "album": "test",
+          "date": "2 days ago"
+        },
+        {
+          "id": 18,
+          "title": "Numb",
+          "length": "3:54",
+          "src": "/music/18.mp3",
+          "cover": "/cover/18.jpg",
+          "artist": "test",
+          "album": "test",
+          "date": "2 days ago"
+        },
+        {
+          "id": 19,
+          "title": "Roads",
+          "length": "5:02",
+          "src": "/music/19.mp3",
+          "cover": "/cover/19.jpg",
+          "artist": "test",
+          "album": "test",
+          "date": "2 days ago"
+        },
+        {
+          "id": 20,
+          "title": "Pedestal",
+          "length": "3:39",
+          "src": "/music/20.mp3",
+          "cover": "/cover/20.jpg",
+          "artist": "test",
+          "album": "test",
+          "date": "2 days ago"
+        },
+        {
+          "id": 21,
+          "title": "Biscuit",
+          "length": "5:01",
+          "src": "/music/21.mp3",
+          "cover": "/cover/21.jpg",
+          "artist": "test",
+          "album": "test",
+          "date": "2 days ago"
+        }
+      ],
+      "id": 6,
+      "cover": "/cover/follow1.jpg",
+      "description": "Indie takes on songs others make."
+    },
+    {
+      "title": "Your Top Songs 2020",
+      "musics": [
+        {
+          "id": 19,
+          "title": "Roads",
+          "length": "5:02",
+          "src": "/music/19.mp3",
+          "cover": "/cover/19.jpg",
+          "artist": "test",
+          "album": "test",
+          "date": "2 days ago"
+        },
+        {
+          "id": 20,
+          "title": "Pedestal",
+          "length": "3:39",
+          "src": "/music/20.mp3",
+          "cover": "/cover/20.jpg",
+          "artist": "test",
+          "album": "test",
+          "date": "2 days ago"
+        },
+        {
+          "id": 21,
+          "title": "Biscuit",
+          "length": "5:01",
+          "src": "/music/21.mp3",
+          "cover": "/cover/21.jpg",
+          "artist": "test",
+          "album": "test",
+          "date": "2 days ago"
+        },
+        {
+          "id": 22,
+          "title": "Glory Box",
+          "length": "5:06",
+          "src": "/music/22.mp3",
+          "cover": "/cover/22.jpg",
+          "artist": "test",
+          "album": "test",
+          "date": "2 days ago"
+        },
+        {
+          "id": 23,
+          "title": "Airbag",
+          "length": "4:44",
+          "src": "/music/23.mp3",
+          "cover": "/cover/23.jpg",
+          "artist": "test",
+          "album": "test",
+          "date": "2 days ago"
+        },
+        {
+          "id": 24,
+          "title": "Paranoid Android",
+          "length": "6:23",
+          "src": "/music/24.mp3",
+          "cover": "/cover/24.jpg",
+          "artist": "test",
+          "album": "test",
+          "date": "2 days ago"
+        },
+        {
+          "id": 25,
+          "title": "Subterranean Homesick Alien",
+          "length": "4:27",
+          "src": "/music/25.mp3",
+          "cover": "/cover/25.jpg",
+          "artist": "test",
+          "album": "test",
+          "date": "2 days ago"
+        }
+      ],
+      "id": 7,
+      "cover": "/cover/follow2.jpg",
+      "description": "The songs you loved most this year, all wrapped up."
+    },
+    {
+      "title": "00s Rock Anthems",
+      "musics": [
+        {
+          "id": 1,
+          "title": "Silence",
+          "length": "4:58",
+          "src": "/music/1.mp3",
+          "cover": "/cover/1.jpg",
+          "artist": "test",
+          "album": "test",
+          "date": "2 days ago"
+        },
+        {
+          "id": 2,
+          "title": "Hunter",
+          "length": "3:57",
+          "src": "/music/2.mp3",
+          "cover": "/cover/2.jpg",
+          "artist": "test",
+          "album": "test",
+          "date": "2 days ago"
+        },
+        {
+          "id": 3,
+          "title": "Nylon Smile",
+          "length": "3:16",
+          "src": "/music/3.mp3",
+          "cover": "/cover/3.jpg",
+          "artist": "test",
+          "album": "test",
+          "date": "2 days ago"
+        },
+        {
+          "id": 4,
+          "title": "The Rip",
+          "length": "4:29",
+          "src": "/music/4.mp3",
+          "cover": "/cover/4.jpg",
+          "artist": "test",
+          "album": "test",
+          "date": "2 days ago"
+        },
+        {
+          "id": 5,
+          "title": "Plastic",
+          "length": "3:27",
+          "src": "/music/5.mp3",
+          "cover": "/cover/5.jpg",
+          "artist": "test",
+          "album": "test",
+          "date": "2 days ago"
+        },
+        {
+          "id": 6,
+          "title": "We Carry On",
+          "length": "6:27",
+          "src": "/music/6.mp3",
+          "cover": "/cover/6.jpg",
+          "artist": "test",
+          "album": "test",
+          "date": "2 days ago"
+        },
+        {
+          "id": 7,
+          "title": "Deep Water",
+          "length": "1:31",
+          "src": "/music/7.mp3",
+          "cover": "/cover/7.jpg",
+          "artist": "test",
+          "album": "test",
+          "date": "2 days ago"
+        },
+        {
+          "id": 8,
+          "title": "Machine Gun",
+          "length": "4:43",
+          "src": "/music/8.mp3",
+          "cover": "/cover/8.jpg",
+          "artist": "test",
+          "album": "test",
+          "date": "2 days ago"
+        },
+        {
+          "id": 9,
+          "title": "Small",
+          "length": "6:45",
+          "src": "/music/9.mp3",
+          "cover": "/cover/9.jpg",
+          "artist": "test",
+          "album": "test",
+          "date": "2 days ago"
+        },
+        {
+          "id": 10,
+          "title": "Magic Doors",
+          "length": "3:32",
+          "src": "/music/10.mp3",
+          "cover": "/cover/10.jpg",
+          "artist": "test",
+          "album": "test",
+          "date": "2 days ago"
+        },
+        {
+          "id": 11,
+          "title": "Threads",
+          "length": "5:45",
+          "src": "/music/11.mp3",
+          "cover": "/cover/11.jpg",
+          "artist": "test",
+          "album": "test",
+          "date": "2 days ago"
+        },
+        {
+          "id": 12,
+          "title": "Mysterons",
+          "length": "5:02",
+          "src": "/music/12.mp3",
+          "cover": "/cover/12.jpg",
+          "artist": "test",
+          "album": "test",
+          "date": "2 days ago"
+        },
+        {
+          "id": 13,
+          "title": "Sour Times",
+          "length": "4:11",
+          "src": "/music/13.mp3",
+          "cover": "/cover/13.jpg",
+          "artist": "test",
+          "album": "test",
+          "date": "2 days ago"
+        },
+        {
+          "id": 14,
+          "title": "Strangers",
+          "length": "3:55",
+          "src": "/music/14.mp3",
+          "cover": "/cover/14.jpg",
+          "artist": "test",
+          "album": "test",
+          "date": "2 days ago"
+        },
+        {
+          "id": 15,
+          "title": "It Could Be Sweet",
+          "length": "4:16",
+          "src": "/music/15.mp3",
+          "cover": "/cover/15.jpg",
+          "artist": "test",
+          "album": "test",
+          "date": "2 days ago"
+        },
+        {
+          "id": 16,
+          "title": "Wandering Star",
+          "length": "4:51",
+          "src": "/music/16.mp3",
+          "cover": "/cover/16.jpg",
+          "artist": "test",
+          "album": "test",
+          "date": "2 days ago"
+        },
+        {
+          "id": 17,
+          "title": "It's a Fire",
+          "length": "3:49",
+          "src": "/music/17.mp3",
+          "cover": "/cover/17.jpg",
+          "artist": "test",
+          "album": "test",
+          "date": "2 days ago"
+        },
+        {
+          "id": 18,
+          "title": "Numb",
+          "length": "3:54",
+          "src": "/music/18.mp3",
+          "cover": "/cover/18.jpg",
+          "artist": "test",
+          "album": "test",
+          "date": "2 days ago"
+        },
+        {
+          "id": 19,
+          "title": "Roads",
+          "length": "5:02",
+          "src": "/music/19.mp3",
+          "cover": "/cover/19.jpg",
+          "artist": "test",
+          "album": "test",
+          "date": "2 days ago"
+        },
+        {
+          "id": 20,
+          "title": "Pedestal",
+          "length": "3:39",
+          "src": "/music/20.mp3",
+          "cover": "/cover/20.jpg",
+          "artist": "test",
+          "album": "test",
+          "date": "2 days ago"
+        },
+        {
+          "id": 21,
+          "title": "Biscuit",
+          "length": "5:01",
+          "src": "/music/21.mp3",
+          "cover": "/cover/21.jpg",
+          "artist": "test",
+          "album": "test",
+          "date": "2 days ago"
+        },
+        {
+          "id": 22,
+          "title": "Glory Box",
+          "length": "5:06",
+          "src": "/music/22.mp3",
+          "cover": "/cover/22.jpg",
+          "artist": "test",
+          "album": "test",
+          "date": "2 days ago"
+        },
+        {
+          "id": 23,
+          "title": "Airbag",
+          "length": "4:44",
+          "src": "/music/23.mp3",
+          "cover": "/cover/23.jpg",
+          "artist": "test",
+          "album": "test",
+          "date": "2 days ago"
+        },
+        {
+          "id": 24,
+          "title": "Paranoid Android",
+          "length": "6:23",
+          "src": "/music/24.mp3",
+          "cover": "/cover/24.jpg",
+          "artist": "test",
+          "album": "test",
+          "date": "2 days ago"
+        },
+        {
+          "id": 25,
+          "title": "Subterranean Homesick Alien",
+          "length": "4:27",
+          "src": "/music/25.mp3",
+          "cover": "/cover/25.jpg"
+        }
+      ],
+      "id": 8,
+      "cover": "/cover/follow3.jpg",
+      "description": "These songs rocked the 00s"
+    },
+    {
+      "id": 9,
+      "title": "Daily Mix 1",
+      "musics": [
+        {
+          "id": 4,
+          "title": "The Rip",
+          "length": "4:29",
+          "src": "/music/4.mp3",
+          "cover": "/cover/4.jpg",
+          "artist": "test",
+          "album": "test",
+          "date": "2 days ago"
+        },
+        {
+          "id": 21,
+          "title": "Biscuit",
+          "length": "5:01",
+          "src": "/music/21.mp3",
+          "cover": "/cover/21.jpg",
+          "artist": "test",
+          "album": "test",
+          "date": "2 days ago"
+        },
+        {
+          "id": 13,
+          "title": "Sour Times",
+          "length": "4:11",
+          "src": "/music/13.mp3",
+          "cover": "/cover/13.jpg",
+          "artist": "test",
+          "album": "test",
+          "date": "2 days ago"
+        },
+        {
+          "id": 17,
+          "title": "It's a Fire",
+          "length": "3:49",
+          "src": "/music/17.mp3",
+          "cover": "/cover/17.jpg",
+          "artist": "test",
+          "album": "test",
+          "date": "2 days ago"
+        },
+        {
+          "id": 21,
+          "title": "Biscuit",
+          "length": "5:01",
+          "src": "/music/21.mp3",
+          "cover": "/cover/21.jpg",
+          "artist": "test",
+          "album": "test",
+          "date": "2 days ago"
+        }
+      ],
+      "cover": "/cover/daily1.jpg",
+      "description": "Doja Cat, Kim Wilde, ABBA and more"
+    },
+    {
+      "title": "Daily Mix 1",
+      "musics": [
+        {
+          "id": 5,
+          "title": "Plastic",
+          "length": "3:27",
+          "src": "/music/5.mp3",
+          "cover": "/cover/5.jpg",
+          "artist": "test",
+          "album": "test",
+          "date": "2 days ago"
+        },
+        {
+          "id": 9,
+          "title": "Small",
+          "length": "6:45",
+          "src": "/music/9.mp3",
+          "cover": "/cover/9.jpg",
+          "artist": "test",
+          "album": "test",
+          "date": "2 days ago"
+        },
+        {
+          "id": 8,
+          "title": "Machine Gun",
+          "length": "4:43",
+          "src": "/music/8.mp3",
+          "cover": "/cover/8.jpg",
+          "artist": "test",
+          "album": "test",
+          "date": "2 days ago"
+        },
+        {
+          "id": 11,
+          "title": "Threads",
+          "length": "5:45",
+          "src": "/music/11.mp3",
+          "cover": "/cover/11.jpg",
+          "artist": "test",
+          "album": "test",
+          "date": "2 days ago"
+        },
+        {
+          "id": 12,
+          "title": "Mysterons",
+          "length": "5:02",
+          "src": "/music/12.mp3",
+          "cover": "/cover/12.jpg",
+          "artist": "test",
+          "album": "test",
+          "date": "2 days ago"
+        }
+      ],
+      "id": 10,
+      "cover": "/cover/daily2.jpg",
+      "description": "Doja Cat, Kim Wilde, ABBA and more"
+    },
+    {
+      "title": "Daily Mix 3",
+      "musics": [
+        {
+          "id": 6,
+          "title": "We Carry On",
+          "length": "6:27",
+          "src": "/music/6.mp3",
+          "cover": "/cover/6.jpg",
+          "artist": "test",
+          "album": "test",
+          "date": "2 days ago"
+        }
+      ],
+      "id": 11,
+      "cover": "/cover/daily3.jpg",
+      "description": "Doja Cat, Kim Wilde, ABBA and more"
+    },
+    {
+      "title": "Daily Mix 4",
+      "musics": [
+        {
+          "id": 3,
+          "title": "Nylon Smile",
+          "length": "3:16",
+          "src": "/music/3.mp3",
+          "cover": "/cover/3.jpg",
+          "artist": "test",
+          "album": "test",
+          "date": "2 days ago"
+        },
+        {
+          "id": 6,
+          "title": "We Carry On",
+          "length": "6:27",
+          "src": "/music/6.mp3",
+          "cover": "/cover/6.jpg",
+          "artist": "test",
+          "album": "test",
+          "date": "2 days ago"
+        },
+        {
+          "id": 5,
+          "title": "Plastic",
+          "length": "3:27",
+          "src": "/music/5.mp3",
+          "cover": "/cover/5.jpg",
+          "artist": "test",
+          "album": "test",
+          "date": "2 days ago"
+        },
+        {
+          "id": 7,
+          "title": "Deep Water",
+          "length": "1:31",
+          "src": "/music/7.mp3",
+          "cover": "/cover/7.jpg",
+          "artist": "test",
+          "album": "test",
+          "date": "2 days ago"
+        },
+        {
+          "id": 8,
+          "title": "Machine Gun",
+          "length": "4:43",
+          "src": "/music/8.mp3",
+          "cover": "/cover/8.jpg",
+          "artist": "test",
+          "album": "test",
+          "date": "2 days ago"
+        }
+      ],
+      "id": 12,
+      "cover": "/cover/daily4.jpg",
+      "description": "Doja Cat, Kim Wilde, ABBA and more"
+    }
+  ],
+  "folders": [
+    {
+      "id": 1,
+      "title": "Hip-Hop",
+      "children": []
+    },
+    {
+      "id": 2,
+      "title": "Pop",
+      "children": []
+    },
+    {
+      "id": 3,
+      "title": "Rock",
+      "children": [
+        {
+          "title": "Brit Rock",
+          "id": 1
+        },
+        {
+          "title": "90's Rock",
+          "id": 2
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "PlayLists You Follow",
+      "children": []
+    },
+    {
+      "title": "immanent folder :)",
+      "children": [],
+      "id": 5
+    }
+  ],
+  "musics": [
+    {
+      "id": 1,
+      "title": "Silence",
+      "length": "4:58",
+      "src": "/music/1.mp3",
+      "cover": "/cover/1.jpg",
+      "artist": "test",
+      "album": "test",
+      "date": "2 days ago",
+      "liked": false
+    },
+    {
+      "id": 2,
+      "title": "Hunter",
+      "length": "3:57",
+      "src": "/music/2.mp3",
+      "cover": "/cover/2.jpg",
+      "artist": "test",
+      "album": "test",
+      "date": "2 days ago",
+      "liked": false
+    },
+    {
+      "id": 3,
+      "title": "Nylon Smile",
+      "length": "3:16",
+      "src": "/music/3.mp3",
+      "cover": "/cover/3.jpg",
+      "artist": "test",
+      "album": "test",
+      "date": "2 days ago",
+      "liked": false
+    },
+    {
+      "id": 4,
+      "title": "The Rip",
+      "length": "4:29",
+      "src": "/music/4.mp3",
+      "cover": "/cover/4.jpg",
+      "artist": "test",
+      "album": "test",
+      "date": "2 days ago",
+      "liked": false
+    },
+    {
+      "id": 5,
+      "title": "Plastic",
+      "length": "3:27",
+      "src": "/music/5.mp3",
+      "cover": "/cover/5.jpg",
+      "artist": "test",
+      "album": "test",
+      "date": "2 days ago",
+      "liked": false
+    },
+    {
+      "id": 6,
+      "title": "We Carry On",
+      "length": "6:27",
+      "src": "/music/6.mp3",
+      "cover": "/cover/6.jpg",
+      "artist": "test",
+      "album": "test",
+      "date": "2 days ago",
+      "liked": false
+    },
+    {
+      "id": 7,
+      "title": "Deep Water",
+      "length": "1:31",
+      "src": "/music/7.mp3",
+      "cover": "/cover/7.jpg",
+      "artist": "test",
+      "album": "test",
+      "date": "2 days ago",
+      "liked": false
+    },
+    {
+      "id": 8,
+      "title": "Machine Gun",
+      "length": "4:43",
+      "src": "/music/8.mp3",
+      "cover": "/cover/8.jpg",
+      "artist": "test",
+      "album": "test",
+      "date": "2 days ago",
+      "liked": false
+    },
+    {
+      "id": 9,
+      "title": "Small",
+      "length": "6:45",
+      "src": "/music/9.mp3",
+      "cover": "/cover/9.jpg",
+      "artist": "test",
+      "album": "test",
+      "date": "2 days ago",
+      "liked": false
+    },
+    {
+      "id": 10,
+      "title": "Magic Doors",
+      "length": "3:32",
+      "src": "/music/10.mp3",
+      "cover": "/cover/10.jpg",
+      "artist": "test",
+      "album": "test",
+      "date": "2 days ago",
+      "liked": false
+    },
+    {
+      "id": 11,
+      "title": "Threads",
+      "length": "5:45",
+      "src": "/music/11.mp3",
+      "cover": "/cover/11.jpg",
+      "artist": "test",
+      "album": "test",
+      "date": "2 days ago",
+      "liked": false
+    },
+    {
+      "id": 12,
+      "title": "Mysterons",
+      "length": "5:02",
+      "src": "/music/12.mp3",
+      "cover": "/cover/12.jpg",
+      "artist": "test",
+      "album": "test",
+      "date": "2 days ago",
+      "liked": false
+    },
+    {
+      "id": 13,
+      "title": "Sour Times",
+      "length": "4:11",
+      "src": "/music/13.mp3",
+      "cover": "/cover/13.jpg",
+      "artist": "test",
+      "album": "test",
+      "date": "2 days ago",
+      "liked": false
+    },
+    {
+      "id": 14,
+      "title": "Strangers",
+      "length": "3:55",
+      "src": "/music/14.mp3",
+      "cover": "/cover/14.jpg",
+      "artist": "test",
+      "album": "test",
+      "date": "2 days ago",
+      "liked": false
+    },
+    {
+      "id": 15,
+      "title": "It Could Be Sweet",
+      "length": "4:16",
+      "src": "/music/15.mp3",
+      "cover": "/cover/15.jpg",
+      "artist": "test",
+      "album": "test",
+      "date": "2 days ago",
+      "liked": false
+    },
+    {
+      "id": 16,
+      "title": "Wandering Star",
+      "length": "4:51",
+      "src": "/music/16.mp3",
+      "cover": "/cover/16.jpg",
+      "artist": "test",
+      "album": "test",
+      "date": "2 days ago",
+      "liked": false
+    },
+    {
+      "id": 17,
+      "title": "It's a Fire",
+      "length": "3:49",
+      "src": "/music/17.mp3",
+      "cover": "/cover/17.jpg",
+      "artist": "test",
+      "album": "test",
+      "date": "2 days ago",
+      "liked": false
+    },
+    {
+      "id": 18,
+      "title": "Numb",
+      "length": "3:54",
+      "src": "/music/18.mp3",
+      "cover": "/cover/18.jpg",
+      "artist": "test",
+      "album": "test",
+      "date": "2 days ago",
+      "liked": false
+    },
+    {
+      "id": 19,
+      "title": "Roads",
+      "length": "5:02",
+      "src": "/music/19.mp3",
+      "cover": "/cover/19.jpg",
+      "artist": "test",
+      "album": "test",
+      "date": "2 days ago",
+      "liked": false
+    },
+    {
+      "id": 20,
+      "title": "Pedestal",
+      "length": "3:39",
+      "src": "/music/20.mp3",
+      "cover": "/cover/20.jpg",
+      "artist": "test",
+      "album": "test",
+      "date": "2 days ago",
+      "liked": false
+    },
+    {
+      "id": 21,
+      "title": "Biscuit",
+      "length": "5:01",
+      "src": "/music/21.mp3",
+      "cover": "/cover/21.jpg",
+      "artist": "test",
+      "album": "test",
+      "date": "2 days ago",
+      "liked": false
+    },
+    {
+      "id": 22,
+      "title": "Glory Box",
+      "length": "5:06",
+      "src": "/music/22.mp3",
+      "cover": "/cover/22.jpg",
+      "artist": "test",
+      "album": "test",
+      "date": "2 days ago",
+      "liked": false
+    },
+    {
+      "id": 23,
+      "title": "Airbag",
+      "length": "4:44",
+      "src": "/music/23.mp3",
+      "cover": "/cover/23.jpg",
+      "artist": "test",
+      "album": "test",
+      "date": "2 days ago",
+      "liked": false
+    },
+    {
+      "id": 24,
+      "title": "Paranoid Android",
+      "length": "6:23",
+      "src": "/music/24.mp3",
+      "cover": "/cover/24.jpg",
+      "artist": "test",
+      "album": "test",
+      "date": "2 days ago",
+      "liked": false
+    },
+    {
+      "id": 25,
+      "title": "Subterranean Homesick Alien",
+      "length": "4:27",
+      "src": "/music/25.mp3",
+      "cover": "/cover/25.jpg",
+      "artist": "test",
+      "album": "test",
+      "date": "2 days ago",
+      "liked": false
+    }
+  ],
+  "activities": [
+    {
+      "id": 1,
+      "avatar": "/images/activity-1.jpg",
+      "title": "James Flores",
+      "time": "1 hr",
+      "track": [
+        "Love Illumination",
+        "Franz Ferninard"
+      ],
+      "description": {
+        "type": "song",
+        "text": "The Right Thoughts,Right Wo..."
+      }
+    },
+    {
+      "id": 2,
+      "avatar": "/images/activity-2.jpg",
+      "title": "Clara Flores",
+      "time": "1 hr",
+      "track": [
+        "Snap Out Of It",
+        "Arctic Monkeys"
+      ],
+      "description": {
+        "type": "song",
+        "text": "Brit Rock"
+      }
+    },
+    {
+      "id": 3,
+      "avatar": "/images/activity-3.jpg",
+      "title": "Jack Nickel",
+      "time": "1 hr",
+      "track": [
+        "Crazy in Love - Original Mix"
+      ],
+      "description": {
+        "type": "user",
+        "text": "Kadebostany"
+      }
+    },
+    {
+      "id": 4,
+      "avatar": "/images/activity-4.jpg",
+      "title": "Brandon Timmy",
+      "time": "1 hr",
+      "track": [
+        "Love Illumination"
+      ],
+      "description": {
+        "type": "user",
+        "text": "Franz Ferninard"
+      }
+    },
+    {
+      "id": 5,
+      "avatar": "/images/activity-5.png",
+      "title": "Serena Hayley...",
+      "time": "1 hr",
+      "track": [
+        "Love Illumination",
+        "Franz Ferninard"
+      ],
+      "description": {
+        "type": "disc",
+        "text": "The Right Thoughts,Right Wo..."
+      }
+    },
+    {
+      "id": 6,
+      "avatar": "/images/activity-6.jpg",
+      "title": "Jane Parker",
+      "time": "1 hr",
+      "track": [
+        "Love Illumination",
+        "Franz Ferninard"
+      ],
+      "description": {
+        "type": "disc",
+        "text": "The Right Thoughts,Right Wo..."
+      }
+    },
+    {
+      "id": 7,
+      "avatar": "/images/activity-7.jpg",
+      "title": "Thomas O’Reilly",
+      "time": "1 hr",
+      "track": [
+        "Love Illumination",
+        "Franz Ferninard"
+      ],
+      "description": {
+        "type": "disc",
+        "text": "The Right Thoughts,Right Wo..."
+      }
+    },
+    {
+      "id": 8,
+      "avatar": "/images/activity-8.jpg",
+      "title": "Amelia Griffin",
+      "time": "1 hr",
+      "track": [
+        "Love Illumination",
+        "Franz Ferninard"
+      ],
+      "description": {
+        "type": "disc",
+        "text": "The Right Thoughts,Right Wo..."
+      }
+    },
+    {
+      "id": 9,
+      "avatar": "/images/activity-9.jpg",
+      "title": "Sarah Parker",
+      "time": "1 hr",
+      "track": [
+        "Love Illumination",
+        "Franz Ferninard"
+      ],
+      "description": {
+        "type": "disc",
+        "text": "The Right Thoughts,Right Wo..."
+      }
+    },
+    {
+      "id": 10,
+      "avatar": "/images/activity-10.jpg",
+      "title": "Laylah Bradford",
+      "time": "1 hr",
+      "track": [
+        "Love Illumination",
+        "Franz Ferninard"
+      ],
+      "description": {
+        "type": "disc",
+        "text": "The Right Thoughts,Right Wo..."
+      }
+    },
+    {
+      "id": 11,
+      "avatar": "/images/activity-11.jpg",
+      "title": "Rick Williams",
+      "time": "1 hr",
+      "track": [
+        "Love Illumination",
+        "Franz Ferninard"
+      ],
+      "description": {
+        "type": "disc",
+        "text": "The Right Thoughts,Right Wo..."
+      }
+    },
+    {
+      "id": 12,
+      "avatar": "/images/activity-12.jpg",
+      "title": "Viktor Couch",
+      "time": "1 hr",
+      "track": [
+        "Love Illumination",
+        "Franz Ferninard"
+      ],
+      "description": {
+        "type": "disc",
+        "text": "The Right Thoughts,Right Wo..."
+      }
+    },
+    {
+      "id": 13,
+      "avatar": "/images/activity-13.jpg",
+      "title": "Emily Harper",
+      "time": "1 hr",
+      "track": [
+        "Love Illumination",
+        "Franz Ferninard"
+      ],
+      "description": {
+        "type": "disc",
+        "text": "The Right Thoughts,Right Wo..."
+      }
+    },
+    {
+      "id": 14,
+      "avatar": "/images/activity-14.jpg",
+      "title": "Jessica Grace",
+      "time": "1 hr",
+      "track": [
+        "Love Illumination",
+        "Franz Ferninard"
+      ],
+      "description": {
+        "type": "disc",
+        "text": "The Right Thoughts,Right Wo..."
+      }
+    },
+    {
+      "id": 15,
+      "avatar": "/images/activity-15.jpg",
+      "title": "Tyson Costa",
+      "time": "1 hr",
+      "track": [
+        "Love Illumination",
+        "Franz Ferninard"
+      ],
+      "description": {
+        "type": "disc",
+        "text": "The Right Thoughts,Right Wo..."
+      }
+    },
+    {
+      "id": 16,
+      "avatar": "/images/activity-16.jpg",
+      "title": "Abigail Rosas",
+      "time": "1 hr",
+      "track": [
+        "Love Illumination",
+        "Franz Ferninard"
+      ],
+      "description": {
+        "type": "disc",
+        "text": "The Right Thoughts,Right Wo..."
+      }
+    }
+  ]
+}
